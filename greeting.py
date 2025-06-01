@@ -1,3 +1,4 @@
+# This program greets the user and asks for feedback
 name = input("Enter your name: ")
 day = input("Enter the current day of the week: ")
 print(f"Hello, {name}! Happy {day}!")
